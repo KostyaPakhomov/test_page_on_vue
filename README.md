@@ -1,3 +1,7 @@
+# Hosting
+
+Link to the app on Firebase [TestPageOnVue](https://testpageonvue.firebaseapp.com)
+
 # test
 
 ## Project setup
